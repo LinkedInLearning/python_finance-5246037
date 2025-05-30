@@ -9,9 +9,9 @@ Ce cours est intégré à GitHub Codespaces, un environnement de développement 
 Destinée aux analystes financiers, traders, étudiants en finance ou toute personne souhaitant allier analyse financière et programmation Python, cette formation vous permettra d’acquérir les bases essentielles dans un contexte financier. Vous apprendrez à manipuler Python pour l’extraction et le traitement des données, l’analyse de performance et l’implémentation d'algorithmes de machine learning pour la prédiction et le trading algorithmique. Accompagné par Natacha Njongwa Yepnga, vous verrez comment préparer et nettoyer des données boursières, calculer et interpréter des rendements, la volatilité et les tendances, mettre en place des indicateurs techniques et utiliser le backtesting pour tester vos stratégies. Vous découvrirez également le machine learning appliqué à la finance pour intégrer des modèles de classification dans vos stratégies de trading.
 
 
-### Formateur
+### Formatrice
 
-**Nom du formateur** 
+**Natacha Njongwa Yepnga** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
