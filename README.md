@@ -34,8 +34,8 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/python-pour-la-finance/bienvenue-dans-python-pour-la-finance
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGKBNGJ1IOgtQ/learning-public-crop_675_1200/B4DZcW83XoIAAc-/0/1748436744462?e=2147483647&v=beta&t=BKpYVJ-27aEr2Hc7dygdwKtNWsyiQJ6ww88k-8cn9kU
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/natacha-njongwa-yepnga
 
 [1]: # (End of FR-Instruction ###############################################################################################)
